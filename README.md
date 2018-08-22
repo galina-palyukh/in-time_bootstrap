@@ -1,5 +1,5 @@
 # in-time_bootstrap
-How to build:
+## How to build:
 npm init --yes
 npm i 
 bower i
