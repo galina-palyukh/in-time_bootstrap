@@ -1,0 +1,21 @@
+{
+  "name": "in-time_bootstrap",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "g.palyukh <g.palyukh@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/galina-palyukh/test",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "jquery": "^3.3.1"
+  }
+}
